@@ -16,6 +16,12 @@ img.icon-img:hover {
   opacity: 0.7;
 }
 
+.icon-atlassian {
+  width: 150px;
+  height: 150px;
+  opacity: 0.7;
+}
+
 .icon-vsts {
   width: 150px;
   height: 150px;
